@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-ghostscript"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-ghostscript component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
